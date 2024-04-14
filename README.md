@@ -1,69 +1,13 @@
-<h1 align="center">
-👋 WELCOME TO MY PROFILE
-</h1>
-<p>
-👨‍🦱 Hi, My name is Nguyen Cong Quy, but you can also call me Leo.
-</p>
-<p>
-🏫 I'm currently a senior student at Ho Chi Minh City University of Technology and Education, majoring in Robotics and Artificial Intelligence.
-</p>
-<p>
-💪 My Strength: Natural Language Processing, Machine Vision, Time Series Analysis.
-</p>
-<p>
-📖 I'm currently pursuing the development of AI applications based on language models to solve real-world problems.
-</p>
-<p>
-👬I'm open-minded and eager to learn and collaborate with people who share a common interest.
-</p>
-<p>
-📱 If you want to collaborate or network, feel free to contact me via my  <a href="https://www.linkedin.com/in/qu%C3%BD-nguy%E1%BB%85n-051136289/">LinkedIn.</a>
-</p>
-<p>
-📫 You can also reach me via quyleo2301@gmail.com.
-</p>
-<h2>
-  📖 Some specializations about Artificial Intelligence that I learned.
-</h2>
-<p align="left">
-  <img
-    src="DataScience.jpg"
-    alt="python" width="660" height="510"/>
-  <img
-    src="MachineLearningAZ.jpg"
-    alt="cpp" width="660" height="510"/>
+# Smart_Bin
 
-</p>
-<h2>🚀 Languages and tools I have used and learned</h2>
-<p align="left">
-  <img
-    src="https://www.svgrepo.com/show/452091/python.svg"
-    alt="python" width="70" height="70"/>
-  <img
-    src="https://www.svgrepo.com/show/376358/c-plus-plus.svg"
-    alt="cpp" width="70" height="70"/>
-  <img
-    src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg"
-    alt="SQL" width="70" height="70"/>
-  <img
-    src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo.svg"
-    alt="sklearn" width="70" height="70"/>
-  <img
-    src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-    alt="tf" width="70" height="70"/>
-  <img
-    src="https://www.svgrepo.com/show/376356/aws.svg"
-    alt="aws" width="70" height="70"/>
-  <img
-    src="https://www.svgrepo.com/show/354240/pytorch.svg"
-    alt="pytorch" width="70" height="70"/>
-</p>
-<!--
-**tblexcelsior/tblexcelsior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The Smart Bin is a product developed by a team participating in the Euréka 2022 scientific research competition. The team created a trash can that uses image processing to classify waste and deliver it to the corresponding storage location. The purpose is to make waste classification an interesting activity that everyone enjoys contributing to in order to protect the environment.
 
+## Dataset
 
--->
-<!---
-QuyAIExplorer/QuyAIExplorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Dataset is taken on our firmware
+- Dataset images captured by the camera, including approximately 9000 photos of household waste, such as recyclable, inorganic, and organic waste
+
+## Presentation
+
+See this [files](https://docs.google.com/presentation/d/1jOmDdS4a-NEYhdHPs7ni2n5a8k0E-NfW4pgcCcyexV4/edit?usp=sharing) for more information
+
