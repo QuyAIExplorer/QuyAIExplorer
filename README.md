@@ -17,17 +17,17 @@
 👬I'm open-minded and eager to learn and collaborate with people who share a common interest.
 </p>
 <p>
-📱 If you want to collaborate or network, feel free to contact me via my  <a href="https://www.linkedin.com/in/qu%C3%BD-nguy%E1%BB%85n-051136289/">LinkedIn</a>
+📱 If you want to collaborate or network, feel free to contact me via my  <a href="https://www.linkedin.com/in/qu%C3%BD-nguy%E1%BB%85n-051136289/">LinkedIn.</a>
 </p>
 <p>
-📫 You can also reach me via quyleo2301@gmail.com
+📫 You can also reach me via quyleo2301@gmail.com.
 </p>
 <h2>
   📖 Some specializations about Artificial Intelligence that I learned.
 </h2>
 <p align="left">
   <img
-    src="specialization1.jpg"
+    src="DataScience.jpg"
     alt="python" width="660" height="510"/>
   <img
     src="specialization2.jpg"
