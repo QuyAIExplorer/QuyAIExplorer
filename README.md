@@ -5,7 +5,7 @@
 👨‍🦱 Hi, My name is Nguyen Cong Quy, but you can also call me Leo.
 </p>
 <p>
-🏫 I'm currently a senior student at Ho Chi Minh City University of Technology and Education, majoring in Robotics and Artificial Intelligence
+🏫 I'm currently a senior student at Ho Chi Minh City University of Technology and Education, majoring in Robotics and Artificial Intelligence.
 </p>
 <p>
 💪 My Strength: Natural Language Processing, Machine Vision, Time Series Analysis.
@@ -30,11 +30,11 @@
     src="DataScience.jpg"
     alt="python" width="660" height="510"/>
   <img
-    src="specialization2.jpg"
+    src="MachineLearningAZ.jpg"
     alt="cpp" width="660" height="510"/>
 
 </p>
-<h2>🚀 Some tools I have used and learned</h2>
+<h2>🚀 Languages and tools I have used and learned</h2>
 <p align="left">
   <img
     src="https://www.svgrepo.com/show/452091/python.svg"
@@ -43,8 +43,8 @@
     src="https://www.svgrepo.com/show/376358/c-plus-plus.svg"
     alt="cpp" width="70" height="70"/>
   <img
-    src="https://www.svgrepo.com/show/303206/javascript-logo.svg"
-    alt="js" width="70" height="70"/>
+    src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg"
+    alt="SQL" width="70" height="70"/>
   <img
     src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo.svg"
     alt="sklearn" width="70" height="70"/>
@@ -52,14 +52,11 @@
     src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
     alt="tf" width="70" height="70"/>
   <img
-    src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-    alt="opencv" width="70" height="70"/>
-  <img
     src="https://www.svgrepo.com/show/376356/aws.svg"
     alt="aws" width="70" height="70"/>
   <img
-    src="https://www.svgrepo.com/show/355190/reactjs.svg"
-    alt="reactjs" width="70" height="70"/>
+    src="https://www.svgrepo.com/show/354240/pytorch.svg"
+    alt="pytorch" width="70" height="70"/>
 </p>
 <!--
 **tblexcelsior/tblexcelsior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
