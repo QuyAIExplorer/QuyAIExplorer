@@ -8,12 +8,6 @@
 🏫 I'm currently a senior student at Ho Chi Minh City University of Technology and Education, majoring in Robotics and Artificial Intelligence.
 </p>
 <p>
-💪 My Strength: Natural Language Processing,Time Series Analysis, Machine Vision.
-</p>
-<p>
-📖 I'm currently pursuing the development of AI applications based on language models to solve real-world problems.
-</p>
-<p>
 👬I'm open-minded and eager to learn and collaborate with people who share a common interest.
 </p>
 <p>
