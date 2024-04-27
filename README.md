@@ -8,10 +8,10 @@
 🏫 I'm currently a senior student at Ho Chi Minh City University of Technology and Education, majoring in Robotics and Artificial Intelligence.
 </p>
 <p>
-💪 My Strength: Natural Language Processing,Time Series Analysis, Machine Vision.
+💪 My Strength: Data Modeling, Data Processing, Natural Language Processing, Time Series Analysis,..
 </p>
 <p>
-📖 I'm currently pursuing the development of AI applications based on language models to solve real-world problems.
+🎯 I'm currently pursuing a career as a Data Scientist to bring technological solutions and projects that solve business and life problems.
 </p>
 <p>
 👬I'm open-minded and eager to learn and collaborate with people who share a common interest.
@@ -32,7 +32,12 @@
   <img
     src="MachineLearningAZ.jpg"
     alt="cpp" width="660" height="510"/>
-
+  <img
+    src="AWS-Certificate.png"
+    alt="cpp" width="660" height="510"/>
+  <img
+    src="SQL-Certificate.png"
+    alt="cpp" width="660" height="510"/>
 </p>
 <h2>🚀 Languages and tools I have used and learned</h2>
 <p align="left">
