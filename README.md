@@ -11,7 +11,7 @@
 💪 My Strength: Data Modeling, Data Processing, Natural Language Processing, Time Series Analysis,..
 </p>
 <p>
-🎯 I'm currently pursuing a career as a Data Scientist to bring technological solutions and projects that solve business and life problems.
+🎯 I'm currently pursuing a career as an AI Engineer to bring technological solutions and projects that solve business and life problems.
 </p>
 <p>
 👬I'm open-minded and eager to learn and collaborate with people who share a common interest.
