@@ -5,7 +5,7 @@
 👨‍🦱 My name is Nguyen Cong Quy, but you can also call me Leo.
 </p>
 <p>
-🏫 I'm currently a senior student at Ho Chi Minh City University of Technology and Education, majoring in Robotics and Artificial Intelligence.
+🏫 I'm a Engineeing of Robotics and Artificial Intelligence Major.
 </p>
 <p>
 💪 My Strength: Data Modeling, Data Processing, Natural Language Processing, Time Series Analysis,..
