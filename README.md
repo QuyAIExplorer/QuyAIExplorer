@@ -5,7 +5,7 @@
 👨‍🦱 My name is Nguyen Cong Quy, but you can also call me Leo.
 </p>
 <p>
-🏫 I'm a Engineeing of Robotics and Artificial Intelligence Major.
+🏫 I'm an Engineeing of Robotics and Artificial Intelligence Major.
 </p>
 <p>
 💪 My Strength: Data Modeling, Data Processing, Natural Language Processing, Time Series Analysis,..
