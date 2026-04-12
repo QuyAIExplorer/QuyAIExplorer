@@ -20,7 +20,7 @@
 📱 If you want to collaborate or network, feel free to contact me via my <a href="https://linkedin.com/in/congquy">LinkedIn.</a>
 </p>
 <p>
-📫 You can also reach me via nguyencongquy23012002@gmail.com.
+📫 You can also reach me via quync.dev@gmail.com.
 </p>
 <h2>
   📖 Some specializations about Artificial Intelligence that I learned
