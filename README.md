@@ -11,13 +11,13 @@
 💪 My Strength: Data Modeling, Data Processing, Natural Language Processing, Time Series Analysis,..
 </p>
 <p>
-🎯 I'm currently pursuing a career in Data Science Field to bring technological solutions and projects that solve business and life problems.
+🎯 I'm currently pursuing a career in AI / Data Science Field to bring technological solutions and projects that solve business and life problems.
 </p>
 <p>
 👬I'm open-minded and eager to learn and collaborate with people who share a common interest.
 </p>
 <p>
-📱 If you want to collaborate or network, feel free to contact me via my <a href="https://www.linkedin.com/in/qu%C3%BD-nguy%E1%BB%85n-051136289/">LinkedIn.</a>
+📱 If you want to collaborate or network, feel free to contact me via my <a href="https://linkedin.com/in/congquy">LinkedIn.</a>
 </p>
 <p>
 📫 You can also reach me via nguyencongquy23012002@gmail.com.
